@@ -1,0 +1,14 @@
+{
+  naam:   "banaan",
+  kleur:    "geel",
+  gewicht: 92,
+  spelling: {
+    lengte: 6,
+    rijmwoorden: [
+    "slaan",
+    "gaan",
+    "maan],
+    startletter: "b"
+  },
+  eetbare_schil: false  
+}
