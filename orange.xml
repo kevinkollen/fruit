@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <fruit>
-  <peer>peer</peer>
-  <sinaasappel>sinaasappel</sinaasappel>
-  <banaan>banaan</banaan>
+  <peer>groen</peer>
+  <sinaasappel>oranje</sinaasappel>
+  <banaan>geel</banaan>
 </fruit>
